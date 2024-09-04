@@ -1,1 +1,1 @@
-gerritcodereview/gerrit:3.10.1 registry.cn-beijing.aliyuncs.com/moshon_pub/gerrit:3.10.1 
+gerritcodereview/gerrit:3.10.1 registry.cn-beijing.aliyuncs.com/moshontek/gerrit:3.10.1 
