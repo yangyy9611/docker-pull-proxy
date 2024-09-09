@@ -1,1 +1,1 @@
-gerritcodereview/gerrit:3.10.1 registry.cn-beijing.aliyuncs.com/moshontek/gerrit:3.10.1 
+gerritcodereview/gerrit:3.10.1-ubuntu22 registry.cn-beijing.aliyuncs.com/moshontek/gerrit:3.10.1-ubuntu22  
